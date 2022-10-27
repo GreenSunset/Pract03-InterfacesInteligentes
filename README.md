@@ -16,4 +16,4 @@
 
 ![ej2](ej2.gif)
 
-![drawray](debugdrawray.png)
+![drawray](debugdrawray.PNG)
